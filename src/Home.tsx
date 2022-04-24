@@ -343,7 +343,7 @@ const Home = (props: HomeProps) => {
                   justifyContent="center"
                   wrap="nowrap"
                 >
-                   <Grid item xs={3}>
+                   {/*<Grid item xs={3}>
                     <Typography variant="body2" color="textSecondary">
                       Remaining
                     </Typography>
@@ -356,7 +356,7 @@ const Home = (props: HomeProps) => {
                     >
                       {`${itemsRemaining}`}
                     </Typography>
-                    </Grid> 
+                    </Grid> */}
                   <Grid item xs={4}>
                     <Typography variant="body2" color="textSecondary">
                       {isWhitelistUser && discountPrice
