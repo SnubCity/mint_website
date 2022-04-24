@@ -549,7 +549,7 @@ const Home = (props: HomeProps) => {
         >
           <h3>Frequently Asked Questions</h3>
           <h5>What is this page?</h5>
-          <small>You can mint your Snub here! If you plan to mint with Solana we recommend https://phantom.app/. If you have any issues please file a ticket in our discord!</small>
+          <small>We're experiencing a slight technical issue! We'll be back online shortly!</small>
 
         </Paper>
       </Container>
